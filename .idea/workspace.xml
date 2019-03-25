@@ -10,7 +10,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/1_Start/start.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -34,7 +34,31 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/2_Architecture/layer, DIP.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="894">
+                <caret line="185" column="89" selection-start-line="185" selection-start-column="89" selection-end-line="185" selection-end-column="89" />
+                <folding>
+                  <element signature="e#124#125#0" expanded="true" />
+                  <element signature="e#175#176#0" expanded="true" />
+                  <element signature="e#155#156#0" expanded="true" />
+                  <element signature="e#207#208#0" expanded="true" />
+                </folding>
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>k,`</find>
+      <find>ㄹㄹㄱㄹ₩</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -43,6 +67,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/1_Start/start.md" />
+        <option value="$PROJECT_DIR$/2_Architecture/README.md" />
       </list>
     </option>
   </component>
@@ -64,6 +89,11 @@
               <item name="DDD" type="b2602c69:ProjectViewProjectNode" />
               <item name="DDD" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="DDD" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DDD" type="462c0819:PsiDirectoryNode" />
+              <item name="2_Architecture" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -74,7 +104,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553320183505" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553328085483" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -82,6 +112,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/2_Architecture" />
       <recent name="$PROJECT_DIR$/1_Start" />
     </key>
   </component>
@@ -107,16 +138,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1553319304562</updated>
-      <workItem from="1553319305832" duration="1880000" />
+      <workItem from="1553319305832" duration="5917000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1880000" />
+    <option name="totallyTimeSpent" value="5917000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="1027" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
@@ -168,6 +198,22 @@
               <element signature="e#177#178#0" expanded="true" />
               <element signature="e#0#22#0" expanded="true" />
               <element signature="e#0#151#0" expanded="true" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2_Architecture/layer, DIP.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="894">
+            <caret line="185" column="89" selection-start-line="185" selection-start-column="89" selection-end-line="185" selection-end-column="89" />
+            <folding>
+              <element signature="e#124#125#0" expanded="true" />
+              <element signature="e#175#176#0" expanded="true" />
+              <element signature="e#155#156#0" expanded="true" />
+              <element signature="e#207#208#0" expanded="true" />
             </folding>
           </first_editor>
           <second_editor />
